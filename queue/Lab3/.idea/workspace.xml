@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="243252f7-6167-40ed-9688-aa751c8051f0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ib4y9313qNHdOBZT5HVr5E8Deu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Lab5" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Lab5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Lab5/src" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="JetRunConfigurationType" nameIsGenerated="true">
+      <module name="Lab3" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Kotlin.Unnamed" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="243252f7-6167-40ed-9688-aa751c8051f0" name="Default Changelist" comment="" />
+      <created>1602163209354</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602163209354</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="114" key="#Project_Structure" timestamp="1602165067380">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="440" y="114" key="#Project_Structure/0.0.1920.1080@0.0.1920.1080" timestamp="1602165067380" />
+    <state x="461" y="54" width="1092" height="1026" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602329876322">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="461" y="54" width="1092" height="1026" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1602329876322" />
+    <state x="689" y="342" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1602329788080">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="689" y="342" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1602329788080" />
+    <state x="718" y="410" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1602163878428">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="718" y="410" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1080@0.0.1920.1080" timestamp="1602163878428" />
+    <state x="739" y="281" key="FileChooserDialogImpl" timestamp="1602329856181">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="739" y="281" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1602329856181" />
+    <state width="1877" height="278" key="GridCell.Tab.0.bottom" timestamp="1602329987493">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="278" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1602329987493" />
+    <state width="1877" height="278" key="GridCell.Tab.0.center" timestamp="1602329987493">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="278" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1602329987493" />
+    <state width="1877" height="278" key="GridCell.Tab.0.left" timestamp="1602329987493">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="278" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1602329987493" />
+    <state width="1877" height="278" key="GridCell.Tab.0.right" timestamp="1602329987493">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="278" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1602329987493" />
+    <state x="440" y="114" key="SettingsEditor" timestamp="1602165654407">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="440" y="114" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1602165654407" />
+    <state x="597" y="160" key="new project wizard" timestamp="1602327069893">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="597" y="160" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1602327069893" />
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1602168429241">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1602168429241" />
+  </component>
+</project>
