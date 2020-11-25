@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="15f18cd8-e3a4-4f8b-8836-78cdfb79bb45" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kmibcFD0KZmjJKel9sqAL1YiSd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\masli\IdeaProjects\Lab7" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="lab7" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-15" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="FigureController" />
+      <module name="Lab7" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="15f18cd8-e3a4-4f8b-8836-78cdfb79bb45" name="Default Changelist" comment="" />
+      <created>1606312239957</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606312239957</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="195" key="#Project_Structure" timestamp="1606312358403">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="463" y="195" key="#Project_Structure/0.0.1920.1080@0.0.1920.1080" timestamp="1606312358403" />
+    <state x="660" y="178" width="1092" height="738" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606312781742">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="660" y="178" width="1092" height="738" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1606312781742" />
+    <state x="1103" y="345" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1606312723881">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1103" y="345" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1606312723881" />
+    <state x="716" y="362" key="FileChooserDialogImpl" timestamp="1606312521398">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="716" y="362" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1606312521398" />
+    <state x="848" y="112" key="SettingsEditor" timestamp="1606312894727">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="848" y="112" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1606312894727" />
+    <state x="574" y="241" key="new project wizard" timestamp="1606312532170">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="574" y="241" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1606312532170" />
+  </component>
+</project>
